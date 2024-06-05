@@ -1,0 +1,17 @@
+.userList {
+    margin: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    justify-content: center;
+    align-items: center;
+
+    .item {
+
+        &:hover {
+            color: #c63434;
+            cursor: pointer;
+        }
+    }
+}
+

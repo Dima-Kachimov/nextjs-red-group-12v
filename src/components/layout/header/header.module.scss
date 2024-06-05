@@ -1,0 +1,13 @@
+.header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 30px;
+  color: #fff;
+  padding: 30px;
+  font-size: 30px;
+}
+
+.active {
+  color: #c63434;
+}
